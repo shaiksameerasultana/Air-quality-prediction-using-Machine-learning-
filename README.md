@@ -1,1 +1,1 @@
-# Air-quality-prediction-using-Machine-learning-
+# Air-quality-prediction
